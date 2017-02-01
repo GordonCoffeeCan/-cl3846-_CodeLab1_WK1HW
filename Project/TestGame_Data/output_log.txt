@@ -7,23 +7,23 @@ Direct3D:
     VRAM:     912 MB
     Driver:   10.18.10.4425
 Begin MonoManager ReloadAssembly
-Platform assembly: D:\My Documents\NYU_Code_Lab_1_Spring2017\Code_Lab_1_Week1_Assignment\TestGame_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading D:\My Documents\NYU_Code_Lab_1_Spring2017\Code_Lab_1_Week1_Assignment\TestGame_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: D:\My Documents\NYU_Code_Lab_1_Spring2017\Code_Lab_1_Week1_Assignment\TestGame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading D:\My Documents\NYU_Code_Lab_1_Spring2017\Code_Lab_1_Week1_Assignment\TestGame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: D:\My Documents\NYU_Code_Lab_1_Spring2017\Code_Lab_1_Week1_Assignment\TestGame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading D:\My Documents\NYU_Code_Lab_1_Spring2017\Code_Lab_1_Week1_Assignment\TestGame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: D:\My Documents\NYU_Code_Lab_1_Spring2017\Code_Lab_1_Week1_Assignment\TestGame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading D:\My Documents\NYU_Code_Lab_1_Spring2017\Code_Lab_1_Week1_Assignment\TestGame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: D:\My Documents\NYU_Code_Lab_1_Spring2017\Code_Lab_1_Week1_Assignment\TestGame_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
-Loading D:\My Documents\NYU_Code_Lab_1_Spring2017\Code_Lab_1_Week1_Assignment\TestGame_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
-- Completed reload, in  0.036 seconds
-Platform assembly: D:\My Documents\NYU_Code_Lab_1_Spring2017\Code_Lab_1_Week1_Assignment\TestGame_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: D:\My Documents\NYU_Code_Lab_1_Spring2017\Code_Lab_1_Week1_Assignment\TestGame_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\My Documents\NYU_Code_Lab_1_Spring2017\-cl3846-_CodeLab1_WK1HW\Project\TestGame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\My Documents\NYU_Code_Lab_1_Spring2017\-cl3846-_CodeLab1_WK1HW\Project\TestGame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\My Documents\NYU_Code_Lab_1_Spring2017\-cl3846-_CodeLab1_WK1HW\Project\TestGame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\My Documents\NYU_Code_Lab_1_Spring2017\-cl3846-_CodeLab1_WK1HW\Project\TestGame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\My Documents\NYU_Code_Lab_1_Spring2017\-cl3846-_CodeLab1_WK1HW\Project\TestGame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\My Documents\NYU_Code_Lab_1_Spring2017\-cl3846-_CodeLab1_WK1HW\Project\TestGame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\My Documents\NYU_Code_Lab_1_Spring2017\-cl3846-_CodeLab1_WK1HW\Project\TestGame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\My Documents\NYU_Code_Lab_1_Spring2017\-cl3846-_CodeLab1_WK1HW\Project\TestGame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\My Documents\NYU_Code_Lab_1_Spring2017\-cl3846-_CodeLab1_WK1HW\Project\TestGame_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\My Documents\NYU_Code_Lab_1_Spring2017\-cl3846-_CodeLab1_WK1HW\Project\TestGame_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.032 seconds
+Platform assembly: D:\My Documents\NYU_Code_Lab_1_Spring2017\-cl3846-_CodeLab1_WK1HW\Project\TestGame_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\My Documents\NYU_Code_Lab_1_Spring2017\-cl3846-_CodeLab1_WK1HW\Project\TestGame_Data\Managed\System.dll (this message is harmless)
 desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 6.151710 ms
+UnloadTime: 1.212640 ms
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 3610 -> priority: 1 
+  Thread -> id: 211c -> priority: 1 
