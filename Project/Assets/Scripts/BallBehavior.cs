@@ -14,6 +14,7 @@ public class BallBehavior : MonoBehaviour {
 	void Update () {
         if (Input.GetKeyUp(KeyCode.Space) && isBallHit == false) {
             isBallHit = true;
+            this.GetComponent<Rigidbody2D>().gravityScale = 1;
             this.GetComponent<Rigidbody2D>().AddForce(new Vector2(Mathf.Cos(PlayerController.arrowAngle.y * Mathf.Deg2Rad), Mathf.Sin(PlayerController.arrowAngle.y * Mathf.Deg2Rad)) * 18, ForceMode2D.Impulse);
         }
 
